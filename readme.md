@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Nilay Shukla 🚀<br><br>I'm an aspiring Student currently exploring the vast world of software development. I love turning tea/coffee into code and building projects that make daily life a little easier.<br><br>🛠 Tech Stack: HTML/CSS, JavaScript, Python, and SQL , react , node , ml , java .<br><br>⚡ Fun Fact: I once spent 3 hours debugging code only to realize I missed a semicolon.<br><br>🥅 2026 Goals: Contribute to 5 major Open Source projects and master [Tool].<br><br>Let's connect! <br>https://nilay503.github.io/portfolio/
+Hello! I'm Nilay Shukla 🚀<br><br>I'm an aspiring Student currently exploring the vast world of software development. I love turning tea/coffee into code and building projects that make daily life a little easier.<br><br>🛠 Tech Stack: HTML/CSS, JavaScript, Python, SQL , react , node , ml , java .<br><br>⚡ Fun Fact: I once spent 3 hours debugging code only to realize I missed a semicolon.<br><br>🥅 2026 Goals: Contribute to 5 major Open Source projects and master [Tool].<br><br>Let's connect! <br>https://nilay503.github.io/portfolio/
 
 
 ## 🌐 Socials:
